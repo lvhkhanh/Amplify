@@ -1,1 +1,5 @@
 # Amplify
+
+```
+database->backend->frontend
+```
